@@ -1,0 +1,2 @@
+Palindromes (avg length: 4.6): Civic, Deed, Kayak, Noon, Radar
+Non-Palindromes (avg length: 5.6): Rainy, Cheese, Chocolate, Happy, Bus
